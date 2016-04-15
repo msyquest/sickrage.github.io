@@ -1071,6 +1071,7 @@ KTN:Asia/Karachi
 KTV (JP):Asia/Tokyo
 Kunskapskanalen:Europe/Stockholm
 Kyoto Broadcasting System:Asia/Tokyo
+Kyushu Asahi Broadcasting
 KYW-TV (US):US/Eastern
 L!VETV (UK):Europe/London
 L1 (NL):Europe/Amsterdam
